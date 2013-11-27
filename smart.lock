@@ -1,0 +1,21 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "jquery-waypoints2": {},
+      "modernizr-meteor": {}
+    },
+    "packages": {
+      "jquery-waypoints2": {
+        "git": "https://github.com/peerlibrary/meteor-jquery-waypoints2.git",
+        "tag": "v2.0.3.1",
+        "commit": "de163ced4ef1dc888ee6b192da722b05d6eb41da"
+      },
+      "modernizr-meteor": {
+        "git": "https://github.com/ckir/modernizr-meteor.git",
+        "tag": "v2.6.2",
+        "commit": "391ca2a3beff3cd2b0e1099cb2d744b5a2e8a73e"
+      }
+    }
+  }
+}
